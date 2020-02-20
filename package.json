@@ -1,0 +1,27 @@
+{
+  "name": "api-nodejs-producthunt",
+  "version": "1.0.0",
+  "description": "API Rest desenvolvida usando node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-12/api-nodejs-producthunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathan-12/api-nodejs-producthunt/issues"
+  },
+  "homepage": "https://github.com/Nathan-12/api-nodejs-producthunt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
